@@ -6,7 +6,7 @@ use Illuminate\Routing\Controller;
 use Modules\Transaction\Http\Requests\TransactionCreateRequest;
 use Modules\Transaction\Repositories\Interfaces\TransactionRepositoryInterface;
 use Modules\Transaction\Transformers\TransactionResource;
-use Modules\User\Repository\Interfaces\UserRepositoryInterface;
+use Modules\User\Repositories\Interfaces\UserRepositoryInterface;
 
 class TransactionController extends Controller
 {

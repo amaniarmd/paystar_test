@@ -1,5 +1,5 @@
 <?php
-namespace Modules\User\Repository\Interfaces;
+namespace Modules\User\Repositories\Interfaces;
 
 use Illuminate\Support\Collection;
 
